@@ -1,2 +1,2 @@
 # praveenrpujar
-Resume, contact details website
+https://praveen-pujar.github.io/me/
